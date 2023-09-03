@@ -76,7 +76,7 @@ Here are some ideas to get you started:
 
 [![Dynatrace](https://img.shields.io/badge/Dynatrace-%23000000.svg?logo=Dynatrace&logoColor=white)](https://www.dynatrace.com/)
 [![Splunk](https://img.shields.io/badge/Splunk-%230078D4.svg?logo=Splunk&logoColor=white)](https://www.splunk.com/)
-[![Kibana](https://img.shields.io/badge/Dynatrace-%23000000.svg?logo=Dynatrace&logoColor=white)](https://www.elastic.co/kibana)
+[![Kibana](https://img.shields.io/badge/Dynatrace-%23000000.svg?logo=Kibana&logoColor=white)](https://www.elastic.co/kibana)
 
 ## SCM Tools
 
