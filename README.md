@@ -1,6 +1,7 @@
 # 💫 About Me:
 
 Hey there, *welcome to my GitHub world!* 👋 I'm **Gnanadeep Vetukuri**.
+
 👋 Spring Cloud Technical Lead and Developer with an enriching journey spanning over 8.5 years. My passion lies in orchestrating cutting-edge solutions that harmonize technology with strategic objectives.
 
 🌐 Embarking on this tech odyssey, I've become an authority in architecting and implementing Spring Cloud marvels. My mastery extends from delving deep into JAVA / J2EE intricacies to harnessing the full potential of Spring Boot and Spring Cloud frameworks. Through meticulously crafted RESTful/Soap Web Services, I've forged connections between systems and elevated user experiences.
