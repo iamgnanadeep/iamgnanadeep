@@ -16,7 +16,7 @@ Hey there, *welcome to my GitHub world!* 👋 I'm **Gnanadeep Vetukuri**.
 
 ## 📬 Let's Connect
 
-Feel free to reach out to me for collaboration, discussions, or any queries related to CloudOps, AWS, DevOps, or technology in general.
+Feel free to reach out to me for collaboration, discussions, or any queries related to Java, Spring Boot, Spring Cloud, AWS, DevOps, or technology in general.
 
 <div align="center">
 🌐 You can connect with me on
