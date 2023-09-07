@@ -52,11 +52,11 @@ Here are some ideas to get you started:
 
 ## Cloud-Native Skills
 
-[![Oracle](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?logo=Kubernetes&logoColor=white)](https://www.oracle.com/in/database/)
-[![MySQL](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?logo=Kubernetes&logoColor=white)](https://www.mysql.com/)
-[![Spring-Boot](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?logo=Kubernetes&logoColor=white)](https://spring.io/projects/spring-boot)
-[![Sping-Cloud](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?logo=Kubernetes&logoColor=white)](https://spring.io/projects/spring-cloud)
-[![Sping](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?logo=Kubernetes&logoColor=white)](https://spring.io/projects/spring-framework)
+[![Oracle](https://img.shields.io/badge/Oracle-%23326CE5.svg?logo=Oracle&logoColor=white)](https://www.oracle.com/in/database/)
+[![MySQL](https://img.shields.io/badge/MySQL-%23326CE5.svg?logo=MySQL&logoColor=white)](https://www.mysql.com/)
+[![Spring-Boot](https://img.shields.io/badge/Spring-Boot-%23326CE5.svg?logo=Spring-Boot&logoColor=white)](https://spring.io/projects/spring-boot)
+[![Spring-Cloud](https://img.shields.io/badge/Spring-Cloud-%23326CE5.svg?logo=Spring-Cloud&logoColor=white)](https://spring.io/projects/spring-cloud)
+[![Spring](https://img.shields.io/badge/Spring-%23326CE5.svg?logo=Spring&logoColor=white)](https://spring.io/projects/spring-framework)
 [![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?logo=Docker&logoColor=white)](https://www.docker.com/)
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?logo=Kubernetes&logoColor=white)](https://kubernetes.io/)
 
