@@ -95,6 +95,12 @@ Here are some ideas to get you started:
 
 ![GitHub Profile](https://github-readme-stats.vercel.app/api?username=iamgnanadeep&show_icons=true&theme=white)
 
+## ☁️ Cloudnloud Community 2022 Free Programs
+
+🌟 Contributed to the production of edited videos, the development of poster designs, and the creation of comprehensive documentation for the following utilization scenarios:
+
+- [Cloudnloud Community NewsLetter](https://www.linkedin.com/pulse/cloudnloud-community-2022-recap-vijayabalan-balakrishnan/)
+
 ## 🌟 Technical Contribution & Volunteering
 
 ![CloudnLoud Tech Community](https://github.com/iamgnanadeep/iamgnanadeep/blob/main/cloudnloud-Community.gif)
@@ -114,11 +120,6 @@ Engaging with tech enthusiasts and sharing knowledge is a passion of mine. I'm a
 
 - :partying_face: Co-Organizer of **Cloud Native Europe & UK** [![Meetup](https://img.shields.io/badge/Meetup-%23ED1C40.svg?logo=Meetup&logoColor=white)](https://www.meetup.com/cloud-native-europe-uk/) - a dynamic space for the cloud-native curious to gather, exchange ideas, and explore the latest trends.
 
-## ☁️ Cloudnloud Community 2022 Free Programs
-
-🌟 Contributed to the production of edited videos, the development of poster designs, and the creation of comprehensive documentation for the following utilization scenarios:
-
-- [Cloudnloud Community NewsLetter](https://www.linkedin.com/pulse/cloudnloud-community-2022-recap-vijayabalan-balakrishnan/)
 
 # AWS Cloud Free 2 months Internship - Week 1
 
