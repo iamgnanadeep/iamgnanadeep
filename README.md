@@ -193,4 +193,3 @@ Engaging with tech enthusiasts and sharing knowledge is a passion of mine. I'm a
 - AWS Cloud DevOps UseCase Internship Week 8 Day 15 Slot2 | [![YouTube](https://img.shields.io/badge/YouTube-%23007DDB.svg?logo=YouTube&logoColor=white)](https://youtu.be/sZtKLSAIw28)
 - AWS Cloud DevOps UseCase Internship Week 8 Day 16 Slot1 | [![YouTube](https://img.shields.io/badge/YouTube-%23007DDB.svg?logo=YouTube&logoColor=white)](https://youtu.be/ZHuvfk6VOZs)
 - AWS Cloud DevOps UseCase Internship Week 8 Day 16 Slot2 | [![YouTube](https://img.shields.io/badge/YouTube-%23007DDB.svg?logo=YouTube&logoColor=white)](https://youtu.be/KlVfpKrFChM)
-
